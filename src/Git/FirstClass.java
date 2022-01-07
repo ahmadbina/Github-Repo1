@@ -1,6 +1,6 @@
 package Git;
 
-public class Birds {
+public class Bird{
 
 	public static void main(String[] args) {
 		System.out.println(Bird.Egale("Egale\n sound:-frrrr", "\nFly:-high fly attiude 4000ft"));
